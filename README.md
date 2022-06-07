@@ -26,4 +26,4 @@ CD
     Getters: all properties have a getter
     Methods: .getAverageRating(), .toggleCheckOutStatus(), and .addRating()"
     
-    This project has been a good learning experience to get to grips with class making and inheritance for sub-classes.
+This project has been a good learning experience to get to grips with class making and inheritance for sub-classes.
